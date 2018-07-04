@@ -1,6 +1,6 @@
 {
   "name": "grid-list",
-  "homepage": "https://github.com/hootsuite/grid",
+  "homepage": "https://github.com/detain/grid",
   "description": "Drag and drop library for a two-dimensional resizable and responsive list of items",
   "main": "src/gridList.js",
   "keywords": [

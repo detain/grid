@@ -1,9 +1,11 @@
-GridList [![Build Status](https://travis-ci.org/hootsuite/grid.svg?branch=master)](https://travis-ci.org/hootsuite/grid)
+GridList [![Build Status](https://travis-ci.org/detain/grid.svg?branch=master)](https://travis-ci.org/detain/grid)
 ====
 Drag and drop library for a two-dimensional resizable and responsive list of
 items
 
-**Demo: http://hootsuite.github.io/grid/**
+Project Forked from [hootsuite/grid](https://github.com/hootsuite/grid)
+
+**Demo: http://detain.github.io/grid/**
 
 The GridList library is split into two roles:
 
@@ -232,5 +234,5 @@ divided by the number of grid rows.
   means they stretch on however many rows a grid has. We show timelines like
   this. It also works for width=0.
 
-*Please check [demo page](http://hootsuite.github.io/grid/) or code directly for
+*Please check [demo page](http://detain.github.io/grid/) or code directly for
 investigating these assumptions.*

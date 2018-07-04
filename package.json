@@ -16,7 +16,7 @@
   "main": "src/gridList.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hootsuite/grid.git"
+    "url": "https://github.com/detain/grid.git"
   },
   "scripts": {
     "test": "jasmine-node --verbose spec"
