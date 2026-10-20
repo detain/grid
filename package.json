@@ -20,5 +20,8 @@
   },
   "scripts": {
     "test": "jasmine-node --verbose spec"
+  },
+  "overrides": {
+    "growl": "^1.10.0"
   }
 }
